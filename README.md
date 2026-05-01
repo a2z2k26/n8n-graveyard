@@ -10,6 +10,5 @@
 
 An archive of 2,055 n8n workflow JSON files, cleaned up and organized for reference.
 
-- Sticky notes removed
 - Files renamed to human-readable slugs
 - API keys redacted
